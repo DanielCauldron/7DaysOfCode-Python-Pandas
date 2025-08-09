@@ -7,4 +7,5 @@ Meu foco foi aprender a unificar múltiplos arquivos em um único conjunto de da
 
 Esse primeiro contato com dados reais já abriu portas para insights e me motivou a seguir firme nessa jornada!
 
-Confira o notebook completo aqui
+Confira o notebook completo aqui:[7 Days of Code - Alura](notebooks/7_Days_of_Code_Alura.ipynb)
+
